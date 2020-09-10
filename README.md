@@ -26,3 +26,7 @@
 
 <p align="center"><img src="pictures/捉精灵.jpg" width="480"\></p>
 
+## 演示视频
+
+<p align="center"><video src="pictures/游戏演示视频.mp4" width="480"\></p>
+
