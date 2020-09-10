@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/\u627E\u7CBE\u7075/Scenes/FindElves.unity"
+  isLoaded: 1
+  isActive: 1

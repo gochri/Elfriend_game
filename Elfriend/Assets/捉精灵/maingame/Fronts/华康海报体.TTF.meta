@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9b29a6d78d78d24498991f356e240639
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFPHaiBaoW12-GB
+  fontNames:
+  - DFPHaiBaoW12-GB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3bc0d702c2ac9e149815e5fe6da281f8, type: 3}
+  - {fileID: 12800000, guid: 07804f854fddef64eb49929ef2b570ff, type: 3}
+  - {fileID: 12800000, guid: b856c44faa30b8e49aff836350e974ac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
